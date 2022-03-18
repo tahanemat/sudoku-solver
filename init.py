@@ -130,5 +130,6 @@ test = np.array(
 
 my_grid = grid(test)
 
-print('hello')
+print('hello ')
+print('world')
 print(my_grid)
