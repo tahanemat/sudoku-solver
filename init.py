@@ -131,5 +131,10 @@ test = np.array(
 my_grid = grid(test)
 
 print('hello ')
-print('world')
+print('hello again ')
+print('addlines and alot of complex code')
+print('addlines and alot of complex code')
+print('addlines and alot of complex code')
+print('addlines and alot of complex code')
+print('addlines and alot of complex code')
 print(my_grid)
